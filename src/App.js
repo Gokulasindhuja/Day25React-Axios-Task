@@ -11,34 +11,34 @@ import NavBar from "./components/NavBar";
 
 const users = [
   {
-    name: "Mr. Estelle Reichel",
-    email: "Marques71@yahoo.com",
-    pic: "http://placeimg.com/480/480/people",
-    id: "1",
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "pic": "http://placeimg.com/480/480/people",
+    "id": "1"
   },
   {
-    name: "Tracy Sanford",
-    email: "Kiarra60@gmail.com",
-    pic: "http://placeimg.com/480/480/people",
-    id: "2",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "pic": "http://placeimg.com/480/480/people",
+    "id": "2"
   },
   {
-    name: "Jimmie Rutherford",
-    email: "Creola55@hotmail.com",
-    pic: "http://placeimg.com/480/480/people",
-    id: "3",
+    "name": "Daniel Brown",
+    "email": "daniel.brown@example.com",
+    "pic": "http://placeimg.com/480/480/people",
+    "id": "3"
   },
   {
-    name: "Alonzo Ferry",
-    email: "Myrtle_Goldner@hotmail.com",
-    pic: "http://placeimg.com/480/480/people",
-    id: "4",
+    "name": "Sophia Martinez",
+    "email": "sophia.martinez@example.com",
+    "pic": "http://placeimg.com/480/480/people",
+    "id": "4"
   },
   {
-    name: "Shelia Lynch V",
-    email: "Lauren.Bode9@hotmail.com",
-    pic: "http://placeimg.com/480/480/people",
-    id: "5",
+    "name": "Oliver Wilson",
+    "email": "oliver.wilson@example.com",
+    "pic": "http://placeimg.com/480/480/people",
+    "id": "5"
   },
 ];
 
